@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A confutation of the Popish transubstantiation Together with a narration, how that the masse was at sundrie times patched and peeced by sundrie Popes. Wherein is contained a briefe summe of the reasons and arguments which those render, that will not receiue the masse. Translated out of French into English by Peter Allibond minister of the word of God.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68347</idno>
+            <idno type="STC">STC 15511</idno>
+            <idno type="STC">ESTC S112323</idno>
+            <idno type="EEBO-CITATION">99847578</idno>
+            <idno type="PROQUEST">99847578</idno>
+            <idno type="VID">12616</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12616)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 164:10, 1490:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A confutation of the Popish transubstantiation Together with a narration, how that the masse was at sundrie times patched and peeced by sundrie Popes. Wherein is contained a briefe summe of the reasons and arguments which those render, that will not receiue the masse. Translated out of French into English by Peter Allibond minister of the word of God.</title>
+                  <author>L'Espine, Jean de, ca. 1506-1597. Sommaire des raisons que rendent ceux qui ne veulent pas participer à la messe.</author>
+                  <author>Sommaire des raisons que rendent ceux qui ne veulent pas participer à la messe. aut</author>
+                  <author>Allibond, Peter, 1559 or 60-1628.</author>
+               </titleStmt>
+               <extent>[5], 21 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Scarlet for Thomas Man,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1592.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Only the "Briefe summe" is by de l'Espine.--STC.</note>
+                  <note>"A short summe of the reasons and arguments that those render, which will not receiue the masse" is a translation of Jean de L'Espine's: "Sommaire des raisons que rendent ceux qui ne veulent pas participer à la messe".</note>
+                  <note>Formerly STC 376.</note>
+                  <note>Identified as STC 376 on UMI, reel 164.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Appears at reel 164 (British Library copy), and at reel 1490 (Cambridge University Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mass --  Controversial literature --  Early works to 1800.</term>
+               <term>Transubstantiation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:12616:1" rendition="simple:additions"/>
+            <pb facs="tcp:12616:1"/>
+            <p>A CONFVTATION of the Popiſh Tranſub<g ref="char:EOLhyphen"/>ſtantiation.</p>
+            <p>
+               <hi>Together with a narration,</hi> how that the Maſſe was at ſundrie times patched and peeced by ſundrie Popes.</p>
+            <p>Wherein is contained a briefe ſumme of the reaſons and Arguments which thoſe render, that will not receiue the Maſſe.</p>
+            <p>
+               <hi>Tranſlated out of French into Engliſh by</hi> PETER ALLIBOND <hi>Mini<g ref="char:EOLhyphen"/>ſter of the word of God.</hi>
+            </p>
+            <p>Read, and then iudge with diſcretion.</p>
+            <q>
+               <bibl>2 Theſſ. 2.11.</bibl>
+               <p>And therfore God ſhal ſend them ſtrong deluſion, that they ſhould beleeue lies.</p>
+            </q>
+            <p>Printed at London by <hi>Thomas Scarlet for Thomas Man.</hi> 1592.</p>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:12616:2" rendition="simple:additions"/>
+            <pb facs="tcp:12616:2"/>
+            <head>THE TRANS<g ref="char:EOLhyphen"/>LATOR TO THE CHRISTIAN AND IN<g ref="char:EOLhyphen"/>different reader, Grace, mer<g ref="char:EOLhyphen"/>cie and peace.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hou haſt in this little Treatiſe (gentle Reader) theſe two things deliue<g ref="char:EOLhyphen"/>red vnto thee.</p>
+            <p n="1">1 Firſt, here is ſhewed that howſoeuer our aduerſaries, the Pa<g ref="char:EOLhyphen"/>piſtes, doo for the maintenance and vp<g ref="char:EOLhyphen"/>holding of their abhominable Maſſe, pretend antiquitie, &amp; long continuance of time: that yet the Maſſe was at ſundry times collected, and patched vp by diuers Popes: ſome adding one thing, ſome ad<g ref="char:EOLhyphen"/>ding another, as they thought good in their fooliſh imaginations. Wherein
+<pb facs="tcp:12616:3"/>they deale with vs as the Gibeonites did with <hi>Ioſhua,</hi> who for to ſaue their liues, ſayned themſelues to be ambaſſadors,<note place="margin">Ioſ. 9.4.6.</note> &amp; that they came from farre, craftely brin<g ref="char:EOLhyphen"/>ging with them old ſhooes, old ſacks, mu<g ref="char:EOLhyphen"/>ſtie bread, &amp;c. deſiring <hi>Ioſhua</hi> therfore to make a league with them. Into whoſe dealings if <hi>Ioſhua</hi> had looked through<g ref="char:EOLhyphen"/>ly, he ſhould haue found them to haue bin but counterfets, and diſſemblers. So not<g ref="char:EOLhyphen"/>withſtanding that the Papiſts vaunt &amp; fay, that their doctrine, and their poſiti<g ref="char:EOLhyphen"/>ons come from far, and are (as they ſay) of great ſtanding and antiquitie: yet if we looke throughly into the matter, and examine all things by the touchſtone of the word of God, which is the tryall of all trueth, we ſhall finde their Popiſh Aſſer<g ref="char:EOLhyphen"/>tions to be vntrueths, new vpſtarts, and counterfets.</p>
+            <p>They further obiect vnto vs, that we depart from the Church, and haue (as they ſay) a new innouated doctrine. True
+<pb facs="tcp:12616:3"/>it is that wee are departed from them, as <hi>Moſes</hi> departed from Egypt, becauſe they are departed from God &amp; his truth. And for the newneſſe of our doctrine (as it pleaſeth them to terme it) it is euident that our doctrine and religion, both in the whole, and in the particulars therof, hath the warrant, and antiquitie of the holy Scriptures. <hi>Abrahams</hi> ſeruantes digged welles for their maſters cattel: aſ<g ref="char:EOLhyphen"/>ter the death of <hi>Abraham</hi> the Philiſti<g ref="char:EOLhyphen"/>ans ſtopped them:<note place="margin">Ge. 26.16.16</note> the ſeruants of <hi>Iſaac</hi> did afterwards dig them anewe, ſo that the welles might in ſome ſort be ſayde to be new, becauſe they were newly digged: So our religion, with ſome may be thoght to be new, not that it is ſo, but becauſe that it was of long time ſtopped and coue<g ref="char:EOLhyphen"/>red by the Popiſh Phyliſtians, and is now (the Lorde bee prayſed for it) diſcouered and found out, by the holy and faithfull ſeruants of the Lord. For it is one thing to ſay that a thing is new, becauſe it was
+<pb facs="tcp:12616:4"/>neuer in <hi>Eſſe</hi> before, and it is another thing to terme a thing new, becauſe it is newly repaired. And thus (good Reader) thou ſeeſt how our aduerſarie may be an<g ref="char:EOLhyphen"/>ſwered in his obiection.</p>
+            <p n="2">2 Nowe for the other parte of this Treatiſe, there is conteined in it a ſtrong confutation of Tranſubſtantiatio<g ref="char:cmbAbbrStroke">̄</g>: wher<g ref="char:EOLhyphen"/>in the Author (who both for his name &amp; perſon is vnknowen vnto me) vſeth ve<g ref="char:EOLhyphen"/>ry ſufficient and forcible arguments, to confute their opinion, ſo that I need not to ſpeake much of that, and yet ſomwhat I will be bold to ad: namely, that if their aſsertion for the reall preſence bee true, then there will this abſurditie enſue, to witte, that Chriſt at his laſte ſupper had two bodies. For if (as our aduerſaries ſay) that the bread was his body, it is eui<g ref="char:EOLhyphen"/>dent and playne, that he ſitting with his Diſciples, and performing the parts of a naturall man, by his ſpeech, geſture, and eating, had a humane body: ſo that if
+<pb facs="tcp:12616:4"/>they affirme the former (which they can neuer proue) we dare auer &amp; iuſtifie the latter. This is one of our aduerſaries ſhifts, that if any obiect vnto them, that it ſtandes not with a humane body to be in diuers places at one and the ſelfsame time, they anſwere it and ſay; that this is done myraculouſly, by meanes of Christs glorification: but then what will they ſay vnto this obiection; for the bread in his laſt ſupper: for eyther they muſt confeſſe that the bread was not his body, or els that a body not glorified may bee in dy<g ref="char:EOLhyphen"/>uers places, at one and the ſelfsame time, for this was done before his glorification, reſurrection, or death. There was euer betwixt Chriſt and vs this difference,<note place="margin">Heb. 4.15.</note> to wit, that he euer was without ſin. There is now further ſince his aſcention, this diſsimilitude, namely, hys glorification: and yet it is neither that that hee hath not, which we haue, namely ſin: nor that that he hath, which we haue not (though
+<pb facs="tcp:12616:5"/>by fayth we be fully aſſured of it) namely, glorification, that doo take from him the true parts of a naturall body, and of hys humane nature. The women, namely, <hi>Marie Magdalen, Ioanna, Mary</hi> the mother of <hi>Iames,</hi> and others, comming vnto the ſepulchre of our Sauiour, and to beſtow their odors vpon him, &amp; to em<g ref="char:EOLhyphen"/>balme him, it was ſayd vnto them by the two men ſtanding by the<g ref="char:cmbAbbrStroke">̄</g> in ſhining ve<g ref="char:EOLhyphen"/>ſtures, <hi>Why ſeek yee him that liueth among the dead? he is not here, but is riſen.</hi> And ſo much more may it bee ſayd to our aduerſaryes, why ſeeke ye him really in the bread?<note place="margin">Luk. 24.5, 6.</note> he is aſcended, he is not there. S. <hi>Iames</hi> ſaith, <hi>Ye aske and receiue not,<note place="margin">Iam. 4.3.</note> becauſe ye aske amiſſe:</hi> And ſo the poore papiſts ſeek &amp; find not, becauſe they ſeek amiſſe: For it is plainly ſayd that the heauens muſt conteyn hym vntil the time that al things be reſtored which is to be vnderſtoode,<note place="margin">1. Kin. 8.27. Act. 3.21.</note> not of hys di<g ref="char:EOLhyphen"/>uine nature (which the heauen of heaue<g ref="char:cmbAbbrStroke">̄</g>s
+<pb facs="tcp:12616:5"/>cannot conteyn) but of his humane na<g ref="char:EOLhyphen"/>ture. And to conteyn in one place, name<g ref="char:EOLhyphen"/>ly in heauen, and to be in many places in earth, are contraries: therfore that place in the 3. of the Acts, being vnderſtood of Chriſts body, as it muſt needs be, wil not permit any reall preſence.</p>
+            <p>And thus much for the ſum of the booke, which is very ſhort and ſmall, and therfore I muſt frame the boulk of mine Epiſtle, anſwerable vnto the quantity of the Treatiſe, leſt the worke ſhould be like vnto an Owle, more head than body: or for feare leſt the porch ſhould bee bygger than the Church. I haue bin the more bold and willing at this time, to take fro<g ref="char:cmbAbbrStroke">̄</g> this Treatiſe the veyle of an vnknowen tongue, &amp; to publiſh it, both becauſe at this time the Papiſts are very rife &amp; re<g ref="char:EOLhyphen"/>dy, with their ſeducing Seminaries and Ieſuites, to delude and deceyue the peo<g ref="char:EOLhyphen"/>ple with theyr Maſſes &amp; tromperyes:
+<pb facs="tcp:12616:6"/>and alſo to manyfeſte vnto others the fondneſſe of their opinions: that ſo men may looke vpon them, as vpon rockes, to auoyde them.</p>
+            <p>And thus (Gentle Reader) I requeſt thee to take in good part this my poor la<g ref="char:EOLhyphen"/>bour, hartely wiſhing that God might be glorified, and that thou mightſt receiue inſtruction and profit by it, which is the thing I aymed at, ſo I craue it for my labour, and paynes ta<g ref="char:EOLhyphen"/>king. Farewell.</p>
+            <closer>
+               <signed>Thine in the Lord P. A.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:12616:6"/>
+            <head>A SHORT SVMME of the Reaſons and Arguments <hi>that thoſe render, which will not receiue the</hi> Maſſe.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is verie good rea<g ref="char:EOLhyphen"/>ſon that we ſhould aun<g ref="char:EOLhyphen"/>ſwer thoſe that demand of vs why wee will not ioyne with them in the Maſſe. For (as S. <hi>Peter</hi> ſaith, in his firſt Epiſtle &amp; third chapter) <hi>We ought alwaies to be readie with meekneſſe and reuerence,</hi>
+               <note place="margin">1. Pet. 3.15.</note> 
+               <hi>to aunſwere euerie one that ſhall demaund of vs a reaſon of the hope that is in vs.</hi>
+            </p>
+            <p>And howſoeuer wee may eaſilie alledge &amp; propound manie things, both out of the holie Scripture, and alſo out of Councells, to prooue that the Maſſe (which is now ſung &amp; vſed) was not ordained of God,
+<pb facs="tcp:12616:7"/>nor of the holie Apoſtles: yet for the auoyding of prolixitie &amp; tediuſ<g ref="char:EOLhyphen"/>nes, we wil for this time produce &amp; cyte ſome ſuch eaſie and plain argu<g ref="char:EOLhyphen"/>ments, as we ſhall be able; truſting in God, that men of vpright &amp; in<g ref="char:EOLhyphen"/>different iudgement wil neither de<g ref="char:EOLhyphen"/>ſpiſe nor condemne them, before that they haue diligently weighed and conſidered them. Wee in the meane ſpace offering to aunſwere more largely, if in caſe anie bee not content with this our anſwere.</p>
+            <p>Firſt, there is not anie man that feareth God, but will heerein wil<g ref="char:EOLhyphen"/>lingly accorde and agree with vs: namely, that it appertaineth vnto God onely, to eſtabliſh lawes &amp; or<g ref="char:EOLhyphen"/>dinances for to gouern his Church by,<note place="margin">It belongeth vnto GOD only to eſta<g ref="char:EOLhyphen"/>bliſh laws in his Church.</note> and that neither angels nor men ought to intrude or thruſt in them<g ref="char:EOLhyphen"/>ſelues, to deuiſe or preſcribe in the Church anie ſeruice for Religion,
+<pb n="2" facs="tcp:12616:7"/>but that that GOD himſelfe hath co<g ref="char:cmbAbbrStroke">̄</g>manded. And that he in Deute<g ref="char:EOLhyphen"/>ronomie ſtraightly forbiddeth vs, that we ſhall not anie of vs doo that that ſeemeth good in our eyes:<note place="margin">Chap. 12.8.</note> but to take heede to his Commaunde<g ref="char:EOLhyphen"/>ments, to doo them; &amp; wherevnto we are not in anie ſort either to add or to diminiſh. <hi>Deut. 4.4. Prou. 30.6.</hi>
+            </p>
+            <p>God hath ſent his ſonne into the world, and hath ſaid of him; <hi>This is my welbeloued Sonne, in who<g ref="char:cmbAbbrStroke">̄</g> I am well pleaſed, heare him.</hi>
+               <note place="margin">Mat. 17.9.</note> Hee hath in his Church fully taught thee the wil of God his Father, concerning things neceſſarie vnto ſaluation, as he him<g ref="char:EOLhyphen"/>ſelf teſtifieth in S. <hi>Iohn</hi> ſaying; <hi>Here<g ref="char:EOLhyphen"/>after call I not you my ſeruants,</hi>
+               <note place="margin">Iohn 15.15.</note> 
+               <hi>for the ſeruaunt knoweth not what his master dooth: but I call you my frends, becauſe that I haue made you know all that, that I haue heard of my father.</hi>
+            </p>
+            <p>He himſelfe hath preached the
+<pb facs="tcp:12616:8"/>goſpel: afterward he gaue comma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dement to his apoſtles to preach the goſpel throghout the whole world;<note place="margin">
+                  <hi>Mar.</hi> 16.15.</note> he commanded not any thing con<g ref="char:EOLhyphen"/>cerning the Maſſe: the Apoſtles haue not ſpoken one word thereof. Nay further, a man ſhall not finde this word <hi>Maſſe</hi> thoroughout the whole new or old Teſtament.</p>
+            <p>Now then, if the Maſſe were of ſuch great waight and importance, as ſome account it to bee: ſaying, that without it we cannot be ſaued, &amp; that he is condemned which be<g ref="char:EOLhyphen"/>leeueth not in the Maſſe, and that all they muſt needs die which will not goe vnto it: the Apoſtles ſhoulde greatly haue failed in forgetting &amp; omitting ſuch a poynt; foraſmuch as they haue ſpoken of many things which ſeeme not to bee of ſo great importance,<note place="margin">2. <hi>Cor.</hi> 11.5. 1. <hi>Tim.</hi> 2.9. 2. <hi>Pet.</hi> 3.3.</note> as of the couering of women, of their haire, of the trim<g ref="char:EOLhyphen"/>ming
+<pb n="3" facs="tcp:12616:8"/>of their heads, &amp; other attires.</p>
+            <p>To alleadge that, that ſome doe, to proue the Maſſe: namely, that our Lorde Ieſus, in going about to celebrate his laſt ſupper, ſaid, <hi>Hoc est corpus meum,</hi> it is not ſufficient.<note place="margin">The diffe<g ref="char:EOLhyphen"/>re<g ref="char:cmbAbbrStroke">̄</g>ce betwixt theſe words <hi>Hoc est cor<g ref="char:EOLhyphen"/>pus meu<g ref="char:cmbAbbrStroke">̄</g>,</hi> and the Maſſe.</note> For there is a great difference betweene theſe words <hi>Hoc eſt corpus meum,</hi> and the maſſe: yea though they ſpeake of their maſſe when it is at the beſt, as they vſe to ſing it at this day.</p>
+            <p>Neither is it requiſite that the poore force that is in theſe foure words, <hi>Hoc eſt corpus meum,</hi> beeing ſhuffeld and thruſt into the midſt of their maſſe, which is nothing els but a maſſie or confuſed heape of pat<g ref="char:EOLhyphen"/>ches and peeces, brought, and ga<g ref="char:EOLhyphen"/>thered together by diuers men, and that at ſundrie times: ſhould make vs beleeue that the Maſſe is there<g ref="char:EOLhyphen"/>fore good, and that it was ordeyned of God, becauſe it hath theſe foure
+<pb facs="tcp:12616:9"/>words in it. For if one ſhould ſo ar<g ref="char:EOLhyphen"/>gue, he might eaſilie ſo ſette open a dore vnto all heretikes and decei<g ref="char:EOLhyphen"/>uers, who at all times haue wel kno<g ref="char:EOLhyphen"/>wen in ſuch ſort to take ſome ſen<g ref="char:EOLhyphen"/>tence out of the holy Scripture, to iumble, and to mingle it amongeſt their falſe doctrine, that ſo they may thereby ſeem to giue it ſome colour of trueth.</p>
+            <p>We will not deny, but that our Lord ſaid theſe words, <hi>Hoc eſt corpus meum,</hi> but we deny that euer he ſaid Maſſe, nor S. <hi>Peter,</hi> neither yet the Apoſtles, as it is eaſie to be proued.</p>
+            <p>Firſt, the Prieſtes, I meane thoſe which are in ſome ſort learned, can<g ref="char:EOLhyphen"/>not denie, but that the Maſſe, euen from the beginning to the end of it,<note place="margin">The Maſſe was groun<g ref="char:EOLhyphen"/>ded by di<g ref="char:EOLhyphen"/>uers Popes, and that at diuers times.</note> hath been made by ſundry Popes; and that at ſundrie times. They wel know that <hi>Damaſcen</hi> the fift, which was made Biſhop in the yere of our
+<pb n="4" facs="tcp:12616:9"/>Lord Ieſus Chriſt, 368. did put into the Maſſe the <hi>Confiteor,</hi> &amp;c.</p>
+            <p>
+               <hi>Gelaſius</hi> of Affrick, who (as <hi>Nau<g ref="char:EOLhyphen"/>clerus</hi> ſaith) was made Biſhoppe of Rome in the yere 415. made the hymnes, collects, reſponſes, the gra<g ref="char:EOLhyphen"/>duals, and prefaces of the maſſe, and ſet all in order, and added vnto the Maſſe, <hi>Verèdignum, &amp; iuſtumeſt. &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Symachus</hi> alſo, who was biſhop of Rome in the yere of our Lord, 502. was loth to forget, but likewiſe ad<g ref="char:EOLhyphen"/>ded his patch: for he ordeyned that euerie ſunday, and ſolemn feaſt day of the Martyres, they ſhoulde ſing <hi>Gloria in excelſis deo,</hi> &amp;c.</p>
+            <p>
+               <hi>Pelagius</hi> alſo, being Biſhoppe of Rome in the yeare 158. hee added thereunto his peece: for hee added the commemoration, or remem<g ref="char:EOLhyphen"/>brance for the dead.</p>
+            <p>
+               <note n="*" place="margin">This Pope added many peeces to the Maſſe: &amp; in his time it tooke the name of the Maſſe.</note>
+               <hi>Gregorie</hi> the firſt made the ſinging in the quire, and the tuning or ſet<g ref="char:EOLhyphen"/>ting
+<pb facs="tcp:12616:10"/>of the Maſſe. Alſo he ordeined that the <hi>Kyrielieſon,</hi> and the <hi>Alleluia</hi> ſhould be ſong nine times, and that the <hi>Pater noſter</hi> ſhould be ſong with alowd voyce, ouer the conſecrated Hoſt, and he added vnto the canon of the maſſe, <hi>Dies noſtros in tua pace diſponas.</hi>
+            </p>
+            <p>
+               <hi>Sergius,</hi> who was in theyere 588. he ordeyned that theſe words, <hi>Ag<g ref="char:EOLhyphen"/>nus Dei</hi> ſhould be ſong three times in the Maſſe, before the breaking of the bread.</p>
+            <p>
+               <hi>Gregorie</hi> the third, he ſecretly ad<g ref="char:EOLhyphen"/>ded vnto the maſſe, <hi>Quorum ſolenni<g ref="char:EOLhyphen"/>tas hodié in conſpectu tuae maieſtatis ce<g ref="char:EOLhyphen"/>lebratur, Domine Deus noſter, in toto orbe terrarum.</hi>
+            </p>
+            <p>
+               <hi>Nicholas</hi> the firſt of that name, cauſed the ſequences to bee added to the maſſe.</p>
+            <p>It cannot be denied, but that <hi>Six<g ref="char:EOLhyphen"/>tus,</hi> the firſt of that name, added vn<g ref="char:EOLhyphen"/>to
+<pb n="5" facs="tcp:12616:10"/>the Maſſe theſe wordes, <hi>Sanctus, ſanctus, ſanctus, Dominus Deus Saba<g ref="char:EOLhyphen"/>oth.</hi>
+            </p>
+            <p>
+               <hi>Innocent,</hi> which was in the yere 405. added the kiſſing of the paxe.</p>
+            <p>
+               <hi>Leo,</hi> the firſt of that name added, <hi>Orate pro me fratres.</hi> And hee added alſo, <hi>Deo gratias.</hi> And further, by preſcript headded this, <hi>Sanctum ſa<g ref="char:EOLhyphen"/>crificium immaculatam hoſtiam:</hi> and this moreouer, <hi>Hancigitur oblatione<g ref="char:cmbAbbrStroke">̄</g>.</hi>
+            </p>
+            <p>
+               <hi>Celeſtine</hi> the firſt, he made and or<g ref="char:EOLhyphen"/>deyned the Offertorie.</p>
+            <p>
+               <hi>Alexander</hi> the ſeuenth Biſhop of Rome,<note place="margin">The begin<g ref="char:EOLhyphen"/>ning of vn<g ref="char:EOLhyphen"/>leauened bread.</note> in the time of <hi>Adrian</hi> the Emperor, in the yere 120. did now begin to violate and breake the or<g ref="char:EOLhyphen"/>dinance of Ieſus, and ordeyned that the bread ſhould be without leuen, and not common as it was before. <hi>Diſtinct.</hi> 93. <hi>chap. Si quis.</hi> And alſo he commaunded to mingle water with the wine in the holy ſupper. <hi>De con<g ref="char:EOLhyphen"/>ſecratione.
+<pb facs="tcp:12616:11"/>distinct.</hi> 2. <hi>in capit. de Sacra<g ref="char:EOLhyphen"/>mento.</hi> And he firſt added vnto the Supper, <hi>Qui pridie quam pateretur.</hi> This doth verie euidently &amp; plain<g ref="char:EOLhyphen"/>ly prooue, that Ieſus Chriſt made not the Maſſe, ſeeing that ſo manie men haue intermedled in the ma<g ref="char:EOLhyphen"/>king thereof.</p>
+            <p>Furthermore, this great addition or peece, <hi>Teigitur clementiſsime pater,</hi> which is one of the principall pee<g ref="char:EOLhyphen"/>ces of the Maſſe; in which portion is mention made of the Pope, of the Biſhop and of the King, dooth eui<g ref="char:EOLhyphen"/>dently prooue, that Ieſus Chriſt made not the Maſſe: for in his time there was neither Pope nor Biſhop.</p>
+            <p>The communicants alſo, where<g ref="char:EOLhyphen"/>in is mention made of the holy vir<g ref="char:EOLhyphen"/>gine, of the apoſtles, and of manie ſaints, which were long ſince the a<g ref="char:EOLhyphen"/>poſtles time, as Saint <hi>Cyprian, Lau<g ref="char:EOLhyphen"/>rence, Griſogon, Coſme, Damian,</hi> and
+<pb n="6" facs="tcp:12616:11"/>others, doo plainly ſhewe that Ieſus made not the Maſſe. S. <hi>Peter</hi> put not himſelfe in this number: for then they would haue ſaid, that hee had ſought his owne glorie.</p>
+            <p>There is yet one ſpecial peece of the Maſſe, which beginneth thus, <hi>Nobis quoque peccatoribus;</hi> wherein is mention made of certaine apoſtles and ſaints, both men and women mingled one amongſt another, as of S. <hi>Barbara, Perpetue; Agathe, Lucie, Agnes, Cecilie, &amp;c.</hi> who came, and were in the world, a long time ſince the death &amp; ſuffering of our Lord. So farre of was he from making the Maſſe, which ſome affirme: that we may eaſilie ſee the contrarie, as ap<g ref="char:EOLhyphen"/>peareth by that which hath bin al<g ref="char:EOLhyphen"/>readie ſaid.</p>
+            <p>As for thoſe wordes which they call Sacramentall wordes; to wit, <hi>Hoc est corpus meum:</hi> they doo in no
+<pb facs="tcp:12616:12"/>ſort make for the Maſſe. For when Ieſus Chriſt ſaid, <hi>This is my bodie, this is my blood:</hi> his purpoſe was not to ſay, as doo the Prieſtes, which giue men to vnderſtand thus, to wit; that the bread is not anie longer bread, and that the wine is not anie longer wine, but are changed into the true ſubſtance of the fleſh and bloud of Ieſus: but ſaith ſimply and plainly <hi>This is my body,</hi> and calleth the bread &amp; wine, in the holie Supper, his bo<g ref="char:EOLhyphen"/>dy &amp; bloud, in the ſame ſence that before he called the Paſchall Lamb by the name of the Paſſouer, ſaying in S. <hi>Luke, I haue earneſtly deſired to eat this Paſſouer with you.</hi>
+               <note place="margin">
+                  <hi>Luke.</hi> 22.15.</note> Nowe wee know well enough that the Lambe was not the Paſſouer, but it was a true Sacrament of it, that is to ſay, the true viſible ſigne of that deliue<g ref="char:EOLhyphen"/>rance which God wrought for his
+<pb n="7" facs="tcp:12616:12"/>people <hi>Iſrael</hi> in <hi>Egype.</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 12.13.26.27.</note>
+            </p>
+            <p>So, after that Ieſus Chriſt had ea<g ref="char:EOLhyphen"/>ten the Lambe with his Apoſtles, which Lamb he called <hi>the Paſſeouer,</hi> for the reaſon and cauſe aforeſayd: now at that verie ſame time, hee or<g ref="char:EOLhyphen"/>dained the holy Supper to ſucceed the Lambe being the Sacrament of the olde Teſtament, which was to haue an ende at his death and paſſi<g ref="char:EOLhyphen"/>on: and called the bread his bodie, &amp; the wine his bloud; as if he ſhould haue ſaid, I haue at this Feaſt eaten with you the Paſchall Lamb, which Lambe was appointed of my Fa<g ref="char:EOLhyphen"/>ther in remembrance of that deliue<g ref="char:EOLhyphen"/>rance that he already made for your fathers in <hi>Egypt:</hi> but this newe Sa<g ref="char:EOLhyphen"/>crament which I appoint vnto you, is the Sacrament of my bodie &amp; of my blood, which is giuen for you on the Croſſe, to deliuer you from euerlaſting death: and as the Lamb
+<pb facs="tcp:12616:13"/>in the Paſſeouer was a ſigne of their deliuerance in <hi>Egypt;</hi> ſo heereafter this Sacrament ſhall bee vnto you a perpetuall remembrance of my bo<g ref="char:EOLhyphen"/>die &amp; of my blood giuen vpon the croſſe for you, as appeareth by the verie words of Ieſus, ſaying; <hi>Do this in remembrance of me.</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 22.9.</note> 
+               <hi>As oft as yee ſhall eate this bread,</hi>
+               <note place="margin">1. <hi>Cor.</hi> 11.26</note> 
+               <hi>and drink this cup, you ſhall ſhew the Lords death vntill his comming.</hi> In which phraſe or man<g ref="char:EOLhyphen"/>ner of ſpeach we are to take heede: for the apoſtle ſaith not, When you ſhal eate of this bodie, &amp; when you ſhal drink of this blood: but he ſaith <hi>When you ſhal eate of this bread, &amp;c.</hi> So when our Sauiour Chriſt gaue the cup, he did not ſay, I will not drink hereafter of this blood: but he ſaid, <hi>I will not drink of the fruite of the vine,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 26.27.</note> 
+               <hi>vntill I drinke it new with you in the kingdome of my Father.</hi> Moreouer, wee may eaſily ſee by the words of
+<pb n="8" facs="tcp:12616:13"/>Ieſus Chriſt, to wit, <hi>I will not drinke hencefoorth of the fruite of the Vine;</hi> that hee himſelfe eate the Supper with his Apoſtles: if then the bread were chaunged into his bodie, and the wine into his blood (as many af<g ref="char:EOLhyphen"/>firme) then ſhoulde Ieſus Chriſt haue eaten himſelf, which is a mon<g ref="char:EOLhyphen"/>ſtrous abſurditie to ſay.</p>
+            <p>Furthermore, in ſaying, <hi>This is my bodie,</hi> we are to take heede how we vnderſtand theſe words, not ac<g ref="char:EOLhyphen"/>cording to the letter or carnally; for hee that will take them ſo (as ſome would) ſhould make Ieſus Chriſt a lyar, and which ſhould haue ſaid a thing which could not bee accom<g ref="char:EOLhyphen"/>pliſhed: for, giuing the bread, hee ſaid, <hi>This is my bodie which is giuen for you, &amp;c.</hi> and yet the bread was not hanged on the croſſe for vs.</p>
+            <p>Therefore, to the ende that wee bee not deceiued, wee are to take
+<pb facs="tcp:12616:14"/>good heede to the interpreting of the words of the holy Supper, &amp; not euerie one of vs to expound them according to our owne fanta<g ref="char:EOLhyphen"/>ſie: but to haue recourſe vnto the words of Ieſus Chriſt, who ſaieth, <hi>The fleſh profiteth nothing, but the ſpi<g ref="char:EOLhyphen"/>rite quickeneth;</hi>
+               <note place="margin">Iohn 6.63.</note> 
+               <hi>the words which I ſay vnto you, are ſpirite and life.</hi>
+            </p>
+            <p>So alſo, Ieſus Chriſt is not a kind of fleſhly meate to nouriſh our bo<g ref="char:EOLhyphen"/>dies; but is a kind of ſpiritual meate for to giue life vnto our Soules, which are nouriſhed euen by the verie ſubſtaunce of Ieſus Chriſt in the holy ſupper: although in reſpect of his bodie hee bee on high in the heauens, as the article of our Chri<g ref="char:EOLhyphen"/>ſtian faith teacheth vs: which is done by the meanes of faith, which is, as it were the mouth of the ſoule. Neither is it needful, that he ſhould bodely deſcend vnto vs here below
+<pb n="9" facs="tcp:12616:14"/>on the earth, for to giue nouriſh<g ref="char:EOLhyphen"/>ment vnto our ſoules, no more than it is needfull that the Sunne ſhould come downe, which without anie paſſing out of his ſet place, ceaſeth not therefore to make vs partakers of his heate &amp; light: ſo is it with Chriſt; otherwiſe, it would bee to ſmall purpoſe to lay hold on the in<g ref="char:EOLhyphen"/>comprehenſible vertue and power of Ieſus Chriſt. Of which power our aduerſaries falſly ſpeak ſo much againſt vs, as if that we ſhuld go a<g ref="char:EOLhyphen"/>bout to denie it: although it ap<g ref="char:EOLhyphen"/>peare euidently, that we think and iudge better and more reuerentlie of it, than they doo For they can<g ref="char:EOLhyphen"/>not beleeue that we may be nouri<g ref="char:EOLhyphen"/>ſhed with the bodie and blood of Ieſus, vnleſſe that he bodily come downe from heauen, in, and vnder a morfell of bread, &amp; to be ſubiect vnto muſtines, and to bee eaten of
+<pb facs="tcp:12616:15"/>beaſts and vermine, as oftentimes it commeth to paſſe: a thing which they cannot denie, that ſuch conſe<g ref="char:EOLhyphen"/>crated bread, which they call <hi>Cor<g ref="char:EOLhyphen"/>pus Domini:</hi> that is, the bodie of the Lord, hath been found rotten and muſtie in a cubbard, and part of it hath been eaten of rats and mice.</p>
+            <p>Moreouer, if the bread and wine in the holy Supper ſhould be real<g ref="char:EOLhyphen"/>ly changed into the fleſh and blood (as ſome ſay) then would it follow that Ieſus Chriſt, ſhould bee meate for the infidels and vnbeleeuers, aſ<g ref="char:EOLhyphen"/>well as he is for the faithfull, which would be another great abſurditie, contrarie vnto the thinges that are taught by Ieſus Chriſt in S. <hi>Iohn,</hi>
+               <note place="margin">Ioh. 6.51.53.54.55.56.</note> 
+               <hi>Iohn.</hi> 6.</p>
+            <p>To this may bee added that that Saint <hi>Paule</hi> ſaith, to wit, that he cal<g ref="char:EOLhyphen"/>leth it not fleſh &amp; blood,<note place="margin">1. Cor. 11.27.</note> but <hi>bread</hi> and <hi>wine,</hi> ſaying, <hi>Whoſoeuer ſhall eate
+<pb n="10" facs="tcp:12616:15"/>of this bread, and drinke of this cuppe vnworthely, eateth and drinketh his owne damnation.</hi> Alſo, the holy ſcrip<g ref="char:EOLhyphen"/>ture ſaieth not, that Chriſt ought to come to put himſelf into the bread and wine vſed in the Supper, after that the wordes are ſpoken: but it ſaith, <hi>When you ſhall eate this bread,</hi>
+               <note place="margin">1. Cor. 11.26.</note> 
+               <hi>and drinke this cup, you ſhall ſhew forth the Lords death till his comming:</hi> that is to ſay, vntill his bodely comming at that his laſt iudgement.</p>
+            <p>Nay further, if the bread and wine of the holy Supper ſhould be changed into fleſh and blood, then ſhould there be no ſacrament in the ſupper. For, as Sacrament (as they themſelues cannot denie) is a ſigne of a holie thing, ſo that the ſigne is not the thing it ſelfe. There is a very great difference betweene the Truth, and the ſigne of the ſame Truth.</p>
+            <pb facs="tcp:12616:16"/>
+            <p>The truth of the Sacrament, is this, Ieſus Chriſt crucified for our ſinnes; the ſigne is this, <hi>Bread</hi> and <hi>Wine,</hi> which are called the Bodie and blood in the Supper: becauſe they are the true and vndoubted ſignes of the bodie and bloud of Chriſt: as it is a phraſe verie vſuall, not onely in the holy Scriptures, but alſo in prophane authors, that the name of a thing is put for the ſigne, which repreſenteth the thing it ſelf. In like maner, whe<g ref="char:cmbAbbrStroke">̄</g> the prieſts ſay, that the bread and wine in the Supper doo by vertue of the Sacra<g ref="char:EOLhyphen"/>mentall wordes (as they call them) looſe the true ſubſtaunce of Bread and of wine to be changed into the true ſubſtaunce of fleſh and blood (which thing conſiſteth onely in o<g ref="char:EOLhyphen"/>pinion, and not in experience) here<g ref="char:EOLhyphen"/>in wee ſay that they deſtroye the Trueth of a Sacrament, and wee
+<pb n="11" facs="tcp:12616:16"/>may iuſtly call them Sacramenta<g ref="char:EOLhyphen"/>ries, becauſe that by theyr per<g ref="char:EOLhyphen"/>uerſe and frowarde opinion, they doo ouerthrowe and annihilate the ſacrament of the holie Supper, by ſuppoſing, &amp; putting in the roome and place thereof, that that they haue deuiſed in their owne heads.</p>
+            <p>As indeede they are not able to prooue this word <hi>Maſſe,</hi> through<g ref="char:EOLhyphen"/>out the whole holy Scripture, ney<g ref="char:EOLhyphen"/>ther yet that the holy Prophets and Apoſtles did at anie time vſe it: ſo ſhall they neuer bee able to prooue this word <hi>Tranſubstantiation</hi> (that is to ſay, the chaunging of one ſub<g ref="char:EOLhyphen"/>ſtance into another) by no author, either Greeke or Latine: but that it is a word that the ſchoolemen haue forged &amp; coyned in their own fan<g ref="char:EOLhyphen"/>taſie. Now, if they hereupo<g ref="char:cmbAbbrStroke">̄</g> alledge the ancient Doctors, we are notig<g ref="char:EOLhyphen"/>norant (God be thanked) how they
+<pb facs="tcp:12616:17"/>haue ſpoken, and are able for this purpoſe to alleadge manie ſenten<g ref="char:EOLhyphen"/>ces euen of thoſe auncient Doctors which make for our purpoſe, but that we purpoſe and labour to bee briefe.</p>
+            <p>And if that they obiect and al<g ref="char:EOLhyphen"/>leadge vnto vs, that there are many good things in the Maſſe, as <hi>Pater,</hi> i. Father, the Goſpell, the Epiſtle, &amp;c. Herein doo they not ſay any more, than that that other mockers, and deceiuers may ſay aſwell as they. For as wee doo ſee that good and wholſome meates, are ſpoyled and ſpilt, by meanes of a ſmall quantity of poyſon beeing mingled among them; and as the golde and ſiluer beeing mingled with yron, braſſe, lead, or other baſe matter, or met<g ref="char:EOLhyphen"/>talls, for to falſifie the coyne there<g ref="char:EOLhyphen"/>of, are iuſtly condemned, and thoſe likewiſe which make ſuch counter<g ref="char:EOLhyphen"/>faits:
+<pb n="12" facs="tcp:12616:17"/>ſo, in like manner we ſay, that thoſe good thinges, whereof wee haue before ſpoken, beeing put and altered from their true and naturall vſe whereunto God hath appoin<g ref="char:EOLhyphen"/>ted them, for to bee iumbled and mingled amongſt ſuch a huge <hi>Cha<g ref="char:EOLhyphen"/>os</hi> and heape of vnſauerie thinges, cannot bee indeede acknowledged for good, vntill they bee drawen from amongeſt thoſe vnſauerie things, no more than can a ring or ſignet of golde in the middeſt of a dunghill.</p>
+            <p>And if that God the Father, and his ſonne Ieſus Chriſt had knowen that ſuch good thinges ſhould haue beene ſo applied for the ſaluation of this poore world, they no doubt had been ſufficiently wiſe to haue giuen notice and commandement of them, and not to haue left them to the diſcretion of theſe men, and
+<pb facs="tcp:12616:18"/>manie other things, which we haue omitted for breuities ſake: who thinking to doo better than GOD; haue in ſo dooing (by their owne inuentions) abuſed this holy myſte<g ref="char:EOLhyphen"/>rie vnto the great diſhonor of God, and alſo to the pernicious hurte of the bodies, ſoules, &amp; goods of ma<g ref="char:EOLhyphen"/>nie men.</p>
+            <p>To be briefe, if after the wordes of conſecration (as they call them) the bread and the wine in the holie Supper, ſhould be changed into the fleſh and bloud of Chriſt (as many do affirme) this ſhould yet no whit make for their Maſſe: as wee ſhall eaſily knowe by a briefe conferring and comparing of the Supper and the Maſſe together; which we will heere decypher and deſcrie, ſetting the holie Supper by it ſelfe, and the Maſſe by it ſelfe.</p>
+            <div type="part">
+               <pb n="13" facs="tcp:12616:18"/>
+               <p n="1">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 1 Ieſus Christ, he him<g ref="char:EOLhyphen"/>ſelfe ordained the holie Supper.</p>
+               <p n="1">
+                  <label>THE MASSE.</label> 1 The Maſſe was com<g ref="char:EOLhyphen"/>pyled &amp; made by manie Popes, as we haue before ſhewed.</p>
+               <p n="2">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 2 Christ did not change his habits or garments to celebrate the Supper.</p>
+               <p n="2">
+                  <label>THE MASSE.</label> 2 The Prieſt diſguiſeth himſelfe he knoweth not how, to ſing his Maſſe.</p>
+               <p n="3">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 3 Christ tooke common bread, vſed at the Table at his Supper.</p>
+               <p n="3">
+                  <label>THE MASSE.</label> 3 The Prieſt muſt haue a whole cake, baked be<g ref="char:EOLhyphen"/>twixt two yrons.</p>
+               <p n="4">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 4 Christ made his Sup<g ref="char:EOLhyphen"/>per at a common Table.</p>
+               <p n="4">
+                  <label>THE MASSE.</label> 4 The Prieſt muſt haue a conſecrated Table (as they call it) to wit, an altare; wherein there muſt bee a certaine quantitie of Relickes enclo<g ref="char:EOLhyphen"/>ſed in a cupboord, in the middeſt of the altare, which they call the ſepulchre: or at the leaſt, if the altar be not conſecrated, then muſt it be of marble. Furthermore, he muſt haue napkins as matters of ſubſtance, or as it were ſtanderds in their Maſſe, as <hi>Durandus</hi> laboreth verie wel to ſhewe in his booke called <hi>Rationale diuinorum.</hi>
+               </p>
+               <p n="5">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 5 Christ when he made his ſupper, he preached &amp; taught his Apostles.</p>
+               <p n="5">
+                  <label>THE MASSE.</label> 5 The Prieſt muttereth out a certaine number of praiers, turneth &amp; trim<g ref="char:EOLhyphen"/>meth his altar, turning ſometimes his backe, ſome<g ref="char:EOLhyphen"/>times his belly vnto the people, &amp; goeth from one end of the table to another, ſinging ſomtimes high ſometimes lowe; ſomtimes hee lifteth vp his hands, and ſometimes he kiſſeth them; one holdeth vp his train, holding in his hand a burning torch or a ta<g ref="char:EOLhyphen"/>per;
+<pb facs="tcp:12616:19"/>me thinke that ſuch a ſight ſhould make a ſad man change his countenance.</p>
+               <p n="6">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 6 Chriſt in adminiſte<g ref="char:EOLhyphen"/>ring his last ſupper, ſpake in a knowen language, common, and vſed in the countrey.</p>
+               <p n="6">
+                  <label>THE MASSE.</label> 6 In the Maſſe they ſpeak in a language, that the greateſt part of the Prieſtes themſelues doo not vnderſtand: which is cleane contrarie vnto that that Saint <hi>Paule</hi> tea<g ref="char:EOLhyphen"/>cheth <hi>1. Corinth. 14 14, 15, 16, 17, 18.</hi> where hee ſheweth, that in the Church wee are not to ſpeake anie other language, but that that the people can vnderſtand.</p>
+               <p n="7">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 7 In the Supper, Ieſus first brake bread, &amp; then afterward gaue it to his Apoſtles.</p>
+               <p n="7">
+                  <label>THE MASSE.</label> 7 In the Maſſe, the Prieſt turneth this order vpſide downe: for firſt hee ſaith a few words o<g ref="char:EOLhyphen"/>uer the bread, and then breaketh it when it plea<g ref="char:EOLhyphen"/>ſeth him: but Ieſus brake the bread, and then ſpake the words.</p>
+               <p n="8">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 8 Christ ſaid, Hoc eſt corpus meum.</p>
+               <p n="8">
+                  <label>THE MASSE.</label> 8 The Prieſt hee ad<g ref="char:EOLhyphen"/>deth <hi>Enim,</hi> ſaying, <hi>Hoc est enim corpus meum.</hi>
+               </p>
+               <p n="9">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 
+                  <hi>9 Christ ſaid,</hi> Take and eate.</p>
+               <p n="9">
+                  <label>THE MASSE.</label> 9 The Prieſt he ſhew<g ref="char:EOLhyphen"/>eth the bread and wine vnto the people, without giuing it vnto them, but like a greedie glutton keepeth all vnto himſelfe. Which is not onely contrarie vnto the ordinaunce of Ieſus Chriſt, but is alſo againſt the cuſtome of auncient men and times, as appeareth by Canons ſet downe (as ſome ſuppoſe) by <hi>Anacletus</hi> and <hi>Ca<g ref="char:EOLhyphen"/>lixtus;</hi> where it was ordained (vpon paine of ex<g ref="char:EOLhyphen"/>communication) that in the Supper all ſhoulde communicate, after the conſecration was perfour<g ref="char:EOLhyphen"/>med.
+<pb n="14" facs="tcp:12616:19"/>So likewiſe it is ſet downe in the Canons at<g ref="char:EOLhyphen"/>tributed to the Apoſtles, and likewiſe in the Coun<g ref="char:EOLhyphen"/>cell of <hi>Tholoſe.</hi> Whereupon it doth euidently fo<g ref="char:EOLhyphen"/>low, that the Maſſe (ſuch as is now vſed) was not ordained by Ieſus Chriſt, neither yet celebrated by the holie Apoſtles: and further, that thoſe which ſee it, &amp; now partake in it, are all excommunicate; becauſe they are not partakers in the Communion, but the Prieſt onely taketh all to himſelfe, contrarie to the ordinance of Chriſt, and of the auncient Fa<g ref="char:EOLhyphen"/>thers.</p>
+               <p n="10">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 10 Christ gaue not onely the bread, but alſo the wine, ſaying, <hi>Drinke ye all of this,</hi> as Mathew 26.27.</p>
+               <p n="10">
+                  <label>THE MASSE.</label> 10 The Prieſt giueth to the common people but the bread onely, and not the wine; which is whol<g ref="char:EOLhyphen"/>ly not onely againſt the inſtitution of Ieſus Chriſt, but alſo againſt the cu<g ref="char:EOLhyphen"/>ſtome of the ancient Fathers, which liued after the Apoſtles, who communicated in both kindes, and condemned all thoſe which communicated but in one, as it appeareth in their conſecration <hi>diſt. 2. cap. Comperimus,</hi> where it is ſaid, that all thoſe which receiued not the Sacrament in both kindes, are infi<g ref="char:EOLhyphen"/>dels and church-robbers, and thoſe likewiſe which refuſe either the one or the other kinde.</p>
+               <p n="11">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 11 As touching the wine in the ſupper, Chriſt min<g ref="char:EOLhyphen"/>gled nothing with it.</p>
+               <p n="11">
+                  <label>THE MASSE.</label> 11 The Prieſt mingleth Water with the Wine, which is the ordinaunce of a ſinfull man, as wee haue before ſhewed.</p>
+               <p n="12">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 12 Christ gaue the bread by it ſelfe, and the wine by it ſelfe.</p>
+               <p n="12">
+                  <label>THE MASSE.</label> 12 The Prieſt breaketh the bread in three peeces, one peece wherof he lets fal into the wine, &amp; ſo mingleth the<g ref="char:cmbAbbrStroke">̄</g> both together.</p>
+               <pb facs="tcp:12616:20"/>
+               <p n="13">
+                  <label>THE HOLY SVPPER of Ieſus Chriſt.</label> 13 Christ ordained his holy Supper, in remembe<g ref="char:EOLhyphen"/>raunce of his death and paſsion, and that but once giuing his bodie &amp; blood vpon the Croſſe for vs.</p>
+               <p n="13">
+                  <label>THE MASSE.</label> 13 The Prieſt he ſaieth Maſſe in remembraunce of ſaints both me<g ref="char:cmbAbbrStroke">̄</g> &amp; wo<g ref="char:EOLhyphen"/>men, and for the recoue<g ref="char:EOLhyphen"/>rie of things loſt: Alſo he ſaieth Maſſe for beaſts, as for oxen, horſes, aſſes, &amp; for other beaſts that are ſicke, becauſe men giue him money for it. And in ſo dooing, hee is in ſtead of a plaiſter or a drug for euerie diſeaſe. He ſaith further, that he offereth vp Ieſus Chriſt, and preſenteth him vnto God the Fa<g ref="char:EOLhyphen"/>ther, for the ſinnes of the quicke and of the dead.</p>
+            </div>
+            <div type="continuation_of_text">
+               <p>Wee might alledge many other reaſons why we would not ioyne, &amp; conſent to the maſſe, which was neuer ordeined by Ieſus Chriſt, nor ſong by his Apoſtles, neither yet by the auncient fathers, which liued in the world a long time after them; &amp; further, that the Maſſe is a meere diſguiſing of the holy Supper, and a plaine derogation from the death, and ſuffering of Ieſus Chriſt. Yea and if wee are to beleeue auncient Councels, there ſhall we finde that thoſe that wil heare the maſſe (as it
+<pb n="15" facs="tcp:12616:20"/>is nowe ſong) are excommuni<g ref="char:EOLhyphen"/>cate, as we haue already ſufficientlie aboue ſhewed: yet for breuities ſake wee will for this time content our ſelues with theſe things that are here mentioned.</p>
+               <p>And for concluſion, we receiue and imbrace that that S. <hi>Iohn</hi> ſaith;<note place="margin">Iohn 20.31.</note> to wit, that that which is written in the goſpel, is written that we might beleeue that Ieſus is that Chriſt, the ſonne of God; and that in beleuing, wee might haue life through his name. The maſſe is not written in the goſpel, whereupon it foloweth, that we are neither to beleeue in it, nor to looke for life by it.</p>
+               <p>Moreouer, the Apoſtle ſaith vn<g ref="char:EOLhyphen"/>to the Hebrewes,<note place="margin">Heb. 9.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> that Chriſt was once offred, to take away the ſinnes of many: hee dooth not ſay that Chriſt is offered vp many times, for to take away ſins, but that he hath
+<pb facs="tcp:12616:21"/>been offred once. By conſequence whereof the prieſt is a lier, becauſe he ſaith, that hee dayly offereth vp Ieſus Chriſt in the maſſe, for the quick, and for the dead.</p>
+               <p>Furthermore,<note place="margin">Heb. 10.12.</note> the ſame Apoſtle vnto the Hebrewes ſaith; that wee are ſanctified by an offering once made by the body of Ieſus Chriſt, he doth not ſay, being many times made.</p>
+               <p>And further,<note place="margin">14.</note> in the ſame chapter he ſaith, that with one only offering hath he conſecrated for euer them that are ſanctified.</p>
+               <p>To be briefe, S. <hi>Paul</hi> in the 20. Chapter of the acts of the Apoſtles, proteſteth, that hee kepte nothing back from them that was profitable for their ſaluation; but hee maketh no mention of the maſſe, therefore the maſſe made nothing for their ſaluation: for if it had, S. <hi>Paul</hi> would
+<pb n="16" facs="tcp:12616:21"/>haue ſpoke of it, and not omitted, or forgotten ſuch a point.</p>
+               <p>And in the ſame chapter he ſaith <hi>I haue kept nothing back,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> 
+                  <hi>but haue ſhew<g ref="char:EOLhyphen"/>ed you the whole councell of God:</hi> there is no mention made of the maſſe, therefore the maſſe is not the coun<g ref="char:EOLhyphen"/>cell of God, but is a newe inuention of men, which is ſet inſtead of the true ſeruice of God.</p>
+               <p>Wherefore, we doo iuſtly, &amp; for good cauſe, reiect and refuſe it, and will in no ſort ioyn in it, but by ma<g ref="char:EOLhyphen"/>ny degrees rather, loue and deſire to cleaue vnto, and firmly to reſt vpon the auncient and catholick faith &amp; law, which God from time to time gaue vnto our ancient fathers with<g ref="char:EOLhyphen"/>out any cleauing vnto that, which is but an heap of newes, ſet abroach by themſelues: ſome thinking ther<g ref="char:EOLhyphen"/>by to doo well, others being led by ambition, and to ſhew themſelues,
+<pb facs="tcp:12616:22"/>others to continue their memoriall amongſt men, and others to get vn<g ref="char:EOLhyphen"/>to themſelues the goods of men, as daily experience ſheweth vs: for as much as they ſay not maſſe for the poore, whether they bee quicke or dead, but only for the rich.</p>
+               <p>And further, admit that the num<g ref="char:EOLhyphen"/>ber of Idolaters and deceiuers were greater than it is, yet wee rather de<g ref="char:EOLhyphen"/>ſire to follow the will of God, with the ſmall number, as did our forefa<g ref="char:EOLhyphen"/>thers, <hi>Noah</hi> and <hi>Lot,</hi> than to periſhe with the multitude: and to walk in the ſtraight and narrow way, which leadeth vnto ſaluation, than in the wide and broad way, which leadeth men vnto deſtruction, <hi>Mat. 7.13.</hi> Now I beſeech the God of all mer<g ref="char:EOLhyphen"/>cie to haue pitie vpon his pore chil<g ref="char:EOLhyphen"/>dren, to enlighten them by his holy ſpirite, and to make them worthie both to vnderſtand, &amp; to follow his heauenly wil.</p>
+            </div>
+            <div type="arguments">
+               <pb n="17" facs="tcp:12616:22"/>
+               <head>Certaine Arguments, very ſtrong and true, against the Sacrifice of the Maſſe.</head>
+               <div type="argument">
+                  <head>The firſt Argument.</head>
+                  <p>EVery diuine ſeruice, inſtituted by the authority of man, with out the worde of God, is wic<g ref="char:EOLhyphen"/>ked: the ſacrifice of the maſſe hath no commandement from God, for Chriſt in his ſupper commaunded none other thing, but the commu<g ref="char:EOLhyphen"/>nion and participation of his bodie and blood, as the Euangeliſtes doo ſhew, and as S. <hi>Paule</hi> doth witnes <hi>1. Cor. 11.24, 25.</hi> For theſe words, <hi>take, eate, drinke,</hi> cannot bee vnderſtood of anie other thing, ſauing of that whereunto they tend: to wit, of the bodie and blood of Chriſt, which are offered vnto the faithfull.</p>
+                  <div type="objection">
+                     <head>An obiection of the Papiſts.</head>
+                     <p>
+                        <hi>Christ and his Apostles taught more
+<pb facs="tcp:12616:23"/>things than are writ; ſo that we are not onely to beleeue that which is in the Bi<g ref="char:EOLhyphen"/>ble: but manie moe things are to bee be<g ref="char:EOLhyphen"/>leeued which the Church hath receiued and approoued, which yet notwithſtan<g ref="char:EOLhyphen"/>ding, are not expreſſed in the ſcripture.</hi>
+                     </p>
+                  </div>
+                  <div type="answer">
+                     <head>The Anſwere.</head>
+                     <p>It is a blaſphemous ſpeach, to ſay that the Scripture is not abſolute &amp; perfect.<note place="margin">Iohn 20.30.</note> For, as for that that S. <hi>Iohn</hi> ſaith, to wit, that <hi>Ieſus did manie other things, which are not written:</hi> he after<g ref="char:EOLhyphen"/>wards addeth, that there is nothing omitted that concerneth our ſalua<g ref="char:EOLhyphen"/>tion, ſaying,<note place="margin">31.</note> 
+                        <hi>Theſe things are written that yee might beleeue, that Ieſus is that Christ, that Sonne of God, and that in beleeuing yee might haue life thorough his name.</hi> So dooth <hi>Cyrill</hi> expound this place in his twelfth book chap. 68. ſaying; <hi>All thinges are done by the Lord: but thoſe onely are writ, which ſuffice both for manners &amp; for doctrine. Chriſostome</hi> vpon the firſt chapter of
+<pb n="18" facs="tcp:12616:23"/>the Acts of the Apoſtles, ſpeaking of all the words and acts of Chriſt, doth not ſay, I haue writ all: but, <hi>I haue writ all that is neceſſarie vnto ſal<g ref="char:EOLhyphen"/>uation.</hi> So S. <hi>Paul</hi> in the ſeconde to <hi>Timothie,</hi> Chap. 3.15. ſaith, <hi>That the Scripture is able to make a man wiſe vn<g ref="char:EOLhyphen"/>to ſaluation, through the faith which is in Chriſt Ieſus.</hi> As for that that the Apoſtle ſaith to the Corinthians, <hi>Other thinges will I ſet in order when I come:</hi>
+                        <note place="margin">1. Cor. 11.34</note> and that to the Theſſalonians, <hi>Brethren ſtand faſt, and keep the inſtru<g ref="char:EOLhyphen"/>ction which you haue been taught, either by word, or by our Epiſtle,</hi> this doth not proue that the Apoſtles taught any thing which was not written.<note place="margin">2. Theſ. 2.15.</note> And <hi>Tertullian</hi> wiſheth that all traditions might bee compaſſed or meaſured by the writings of the Apoſtles, ſay<g ref="char:EOLhyphen"/>ing; <hi>Their doctrine conferred with that of the Apoſtles, ſhal ſhew by the diuer<g ref="char:EOLhyphen"/>ſitie and contrarietie thereof, that it is
+<pb facs="tcp:12616:24"/>neither from the Apostles, nor Apoſtoli<g ref="char:EOLhyphen"/>call.</hi> And S. <hi>Hierome</hi> vpon the 23. of <hi>Mathew</hi> ſaith; <hi>That which hath not the authoritie of the Scriptures is to bee reiected, becauſe it is not to be approued.</hi> For the Church hath not power ei<g ref="char:EOLhyphen"/>ther to make newe Articles of the faith, or to chaunge the inſtitutions and doctrine of Chriſt, or of the A<g ref="char:EOLhyphen"/>poſtles: ſeeing that the holy Ghoſt hath not reſerued vnto himſelf this prerogatiue, but ſaith by S. <hi>Paul</hi> his choſen veſſell, <hi>Gal.</hi> 1.8. as it were ad<g ref="char:EOLhyphen"/>moniſhing &amp; warning euery man; <hi>If an angel fro<g ref="char:cmbAbbrStroke">̄</g> heauen ſhal ſhew you any other thing, than that which wee haue declared vnto you, let him be accurſed.</hi> If the Maſſe were a thing ſo neceſſarie as our aduerſaries would haue it to be, no doubt Ieſus Chriſt and his a<g ref="char:EOLhyphen"/>poſtles would haue ſaid ſome thing of it, conſidering that they haue ſpoken euen how ſeruants and chil<g ref="char:EOLhyphen"/>dren
+<pb n="19" facs="tcp:12616:24"/>are to liue. Foraſmuch there<g ref="char:EOLhyphen"/>fore, as Chriſt &amp; his Apoſtles haue not taught anie thing concerning the Maſſe, it is therfore euident, that it was not vſed in the Primitiue Church, as ouraduerſaries do falſly alleadge.</p>
+                  </div>
+               </div>
+               <div type="argument">
+                  <head>Another Argument.</head>
+                  <p>It is of neceſſitie, that the Prieſt which purgeth and taketh away ſinnes, be holy, harmeleſſe, vndefi<g ref="char:EOLhyphen"/>led, ſeperate from ſinners, and made higher than the heauens, which ne<g ref="char:EOLhyphen"/>deth not daylie, as <hi>Aarons</hi> Prieſts,<note place="margin">
+                        <hi>Heb.</hi> 7.26.27.</note> to offer vpſacrifice, firſt for his owne ſinnes, and than for the ſinnes of the people: and further, that he be with<g ref="char:EOLhyphen"/>out infirmitie; the Popiſh prieſts are farre from beeing ſuch, and Chriſt only is ſuch a one, therefore Chriſt onely remayneth the Prieſt of the Church, who taketh away ſinnes, &amp; ſaueth, and ſanctifieth all thoſe that
+<pb facs="tcp:12616:25"/>beleeue, and admitteth not of any vice-gerent, or vicar in his Prieſt<g ref="char:EOLhyphen"/>hood.</p>
+               </div>
+               <div type="argument">
+                  <head>Another Argument.</head>
+                  <p>No ſacrifice which purgeth or cleanſeth, is without blood. <hi>Hebr.</hi> 9.22. <hi>Without ſhedding of blood there is no remiſsion:</hi> the Papiſts ſay, that in the Maſſe ſinnes are purged &amp; clen<g ref="char:EOLhyphen"/>ſed, and that it is a ſacrifice that pur<g ref="char:EOLhyphen"/>geth; therefore of neceſſitie it muſt follow, that the Maſſe muſt bee a ſa<g ref="char:EOLhyphen"/>crifice with blood. Which, if it bee ſo, then this will follow, that Chriſt is not entred in once onely into the holy places by his owne blood. And againe on the otherſide; If the ſacrifice of the Maſſe bee without blood, then is it not of the ſame ſubſtance as was that of the Croſſe; for the ſubſtance and the ground of the ſacrifice of the Croſſe is this, to wit, Chriſt taking vppon him the
+<pb n="20" facs="tcp:12616:25"/>wrath of his Father, turning it from vs, giuing vp his bodie vnto death, and ſhedding his blood for vs.</p>
+               </div>
+               <div type="argument">
+                  <head>Another Argument.</head>
+                  <p>Chriſt offered vp himſelfe once, and cannot bee offered any more: for this is the nature and qualitie of his Sacrifice. Other ſacrifices are offered by others, but this ſacrifice, which is the ſonne of God, cannot be offered but by himſelfe, and that but once, which, without queſtion, is not againe to be iterated. The ad<g ref="char:EOLhyphen"/>uerſaries then doo greatly &amp; groſly deceiue themſelues, when they ſay that the ſonne of God is offered by their prieſts.</p>
+               </div>
+               <div type="argument">
+                  <head>Another Argument.</head>
+                  <p>The ſonne of God, by one only oblation hath for euer made them perfect which are ſanctified: &amp; this oblation is applied vnto euerie one
+<pb facs="tcp:12616:26"/>by his owne faith, in laying holde vpon it. Therefore it is not needful that the Prieſt ſhould applie it, by his oblation or offering. For if ouer and beſides this ſacrifice of Chriſt, the ſacrifices of the prieſtes are ne<g ref="char:EOLhyphen"/>ceſſarie; or if the ſacrifice of the Croſſe be inſufficient, and ſerueth not to anie purpoſe, vnleſſe it be ap<g ref="char:EOLhyphen"/>plied by the Prieſt: then will it fol<g ref="char:EOLhyphen"/>lowe, that Chriſt by his one onely oblation hath not purged and puri<g ref="char:EOLhyphen"/>fied all the beleeuers. But it is moſt certaine, that the oblation of Chriſt is ſufficient vnto ſaluation for euer, and for all the beleeuers,<note place="margin">
+                        <hi>Heb.</hi> 6.26.27.</note> ſo that it needeth not to bee iterated or per<g ref="char:EOLhyphen"/>formed againe: neither is it applied by the Maſſe, but by Faith and by the Sacraments, being ordained &amp; appointed by Chriſt vnto that end. Therefore, &amp;c.</p>
+                  <pb n="21" facs="tcp:12616:26"/>
+               </div>
+               <div type="argument">
+                  <head>Another Argument.</head>
+                  <p>Where there is forgiueneſſe of ſinnes alreadie, there neede not to bee anie more oblation for them: that is to ſay, after that ſins are par<g ref="char:EOLhyphen"/>doned, Sacrifices ceaſe: but in the new Teſtament there is a ful &amp; per<g ref="char:EOLhyphen"/>fect remiſſion and purging from all ſinnes by the death of Chriſt: ther<g ref="char:EOLhyphen"/>fore all purging ſacrifices ceaſe and haue an end in the newe teſtament onely there remaineth the ſacrifice of praiſe and giuing of thankes, &amp; a memoriall or remembraunce of that Sacrifice once offered on the Croſſe; which remembraunce is perfourmed in the Supper of the Lord.</p>
+               </div>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="Scriptural_citations">
+            <pb facs="tcp:12616:27"/>
+            <head>The true Sacrifices of <hi>Christians.</hi>
+            </head>
+            <q>
+               <p n="1">
+                  <hi>1</hi> I beſeech you brethren by the mer<g ref="char:EOLhyphen"/>cies of God, that ye geue vp your bodies, a liuing ſacrifice, holy &amp; acceptable vnto God, which is your reaſonable ſeruing of God,</p> 
+               <bibl>Rom. 12.1.</bibl>
+            </q>
+            <q>
+               <p n="2">
+                  <hi>2</hi> Offer vnto God praiſe, and pay thy vowes vnto the most high.</p> 
+               <bibl>Pſal. 50.14.</bibl>
+            </q>
+            <q>
+               <p n="3">
+                  <hi>3</hi> The ſacrifices of God, are a contrite ſpirite, a broken and a contrite heart ô God, thou wilt not diſpiſe.</p> 
+               <bibl>Pſal. 51.17.</bibl>
+            </q>
+            <q>
+               <p n="4">
+                  <hi>4</hi> To doo good, and to diſtribute for<g ref="char:EOLhyphen"/>get not, for with ſuch ſacrifices GOD is pleaſed, </p>
+               <bibl>Heb. 13.16.</bibl>
+            </q>
+            <pb facs="tcp:12616:27"/>
+         </div>
+      </back>
+   </text>
+</TEI>
